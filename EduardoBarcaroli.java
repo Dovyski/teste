@@ -3,3 +3,15 @@ public class EduardoBarcaroli {
         System.out.println(".");
       }
 }
+/*
+━━━-╮
+╰ ┃ ▇━▇
+┃ ┃ ╰━▅╮
+╰┳╯ ╰ ┳╯
+╰╮ ┳━╯ Deixa Yasuo Open
+▕▔▋ ╰╮╭━╮ RAPAZIADA TMJ
+╱▔╲▋╰━┻┻╮╲╱▔▔▔╲
+▏ ▔▔▔▔▔▔▔ O O ┃
+╲╱▔╲▂▂▂▂╱▔╲▂▂▂╱
+▏╳▕▇▇▕ ▏╳▕▇▇▕
+╲▂╱╲▂╱ ╲▂╱╲▂╱*/
